@@ -1,7 +1,4 @@
 thongdeptraiwa trời lun
 
-<<<<<<< HEAD
-=======
 me2
 
->>>>>>> main
